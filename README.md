@@ -1,3 +1,5 @@
 # AIbook
+
 writing a silly book for teaching github
+
 we are going to use this file during this course...
